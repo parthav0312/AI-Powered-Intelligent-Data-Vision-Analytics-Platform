@@ -1,0 +1,22 @@
+artifact_path: file:///D:/HARSHITHA_PROJECTS/DATA%20ANALYST/streamlit-agent/streamlit_agent/mlruns/857088591641872077/models/m-9eb475b79ede4b60ae89435a113dcf35/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-9eb475b79ede4b60ae89435a113dcf35
+model_size_bytes: 1021
+model_uuid: m-9eb475b79ede4b60ae89435a113dcf35
+prompts: null
+run_id: d217469e82a34c279279d15f1cd00ba1
+utc_time_created: '2025-10-10 07:44:19.979064'
