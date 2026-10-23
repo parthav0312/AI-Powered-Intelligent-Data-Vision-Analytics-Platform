@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/HARSHITHA_PROJECTS/DATA%20ANALYST/streamlit-agent/streamlit_agent/mlruns/946285241604497472/2db76a1dd8724f3e9038935acd4db09e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '946285241604497472'
+lifecycle_stage: active
+run_id: 2db76a1dd8724f3e9038935acd4db09e
+run_name: Live Camera Detection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760083847359
+status: 1
+tags: []
+user_id: '91984'

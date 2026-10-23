@@ -1,0 +1,10 @@
+artifact_location: file:///D:/HARSHITHA_PROJECTS/DATA%20ANALYST/streamlit-agent/streamlit_agent/mlruns/857088591641872077/models/m-8bc43d4752a249c1add4a34b62c68705/artifacts
+creation_timestamp: 1760093003199
+experiment_id: '857088591641872077'
+last_updated_timestamp: 1760093221839
+model_id: m-8bc43d4752a249c1add4a34b62c68705
+model_type: null
+name: model
+source_run_id: fc38b3df8de5433d83b3d40480788dca
+status: 2
+status_message: null

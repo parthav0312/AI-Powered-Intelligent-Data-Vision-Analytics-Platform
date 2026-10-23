@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/HARSHITHA_PROJECTS/DATA%20ANALYST/streamlit-agent/streamlit_agent/mlruns/857088591641872077/fc38b3df8de5433d83b3d40480788dca/artifacts
+end_time: 1760093221910
+entry_point_name: ''
+experiment_id: '857088591641872077'
+lifecycle_stage: active
+run_id: fc38b3df8de5433d83b3d40480788dca
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760093002327
+status: 3
+tags: []
+user_id: '91984'
